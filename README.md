@@ -1,4 +1,4 @@
-# Online Shop Website
+# e_Shop Website
 
 This project is an online shop website developed using HTML, CSS, and JavaScript.
 
